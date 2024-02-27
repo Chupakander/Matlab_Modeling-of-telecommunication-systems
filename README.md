@@ -1,5 +1,5 @@
 # Matlab_Modeling-of-telecommunication-systems
-Labarotory 
+Лабораторная выполнена в Matlab
 
 Задание 1
 
